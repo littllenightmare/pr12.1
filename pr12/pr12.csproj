@@ -8,10 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="FLGIREL.ICO" />
+    <None Remove="FLGJAPAN.ICO" />
     <None Remove="Снимок экрана %288%29.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="FLGIREL.ICO" />
+    <Resource Include="FLGJAPAN.ICO" />
     <Resource Include="Снимок экрана (8).png" />
   </ItemGroup>
 
